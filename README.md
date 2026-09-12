@@ -12,12 +12,13 @@
 
 ### 🧭 About Me
 
-- 🎓 MCA graduate (Trident Academy of Technology, Bhubaneswar) — currently a **Java Full Stack Intern @ QSpiders**
+- 🎓 MCA graduate (Trident Academy of Technology, Bhubaneswar) — completed my **Java Full Stack internship @ JSpider**, now looking for full-time opportunities
 - 🛠️ I build full-stack apps end-to-end: **Spring Boot + React**, secured with **Spring Security & JWT**, containerized with **Docker**, and actually deployed (Render / Netlify / Aiven) — not just running on localhost
 - 🧩 Comfortable across the stack: REST APIs, async email flows, cloud image uploads, role-based access control
 - 🧮 150+ LeetCode & 100+ CodeForces problems solved — DSA is a daily habit, not a resume line
 - 📍 Based in Marathahalli, Bengaluru
 - 💬 Ask me about: Spring Security/JWT auth flows, deploying a Spring Boot app to Render with a managed MySQL DB, or async email verification with `@Async`
+- 🚀 Open to Java Full Stack Developer roles — let's connect!
 
 <details>
 <summary>🎯 What I'm focused on right now</summary>
