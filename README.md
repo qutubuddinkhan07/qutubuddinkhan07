@@ -106,5 +106,3 @@ Secure signup/login system with async email flows and cloud image uploads.
   <a href="https://leetcode.com/Qutubuddin_khan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/Qutubuddin_khan"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat&logo=CodeForces&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>📞 +91 8249203266 &nbsp;|&nbsp; 📍 Bengaluru, Marathahalli</i></p>
