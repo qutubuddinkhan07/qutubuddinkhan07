@@ -18,7 +18,7 @@
 - 🧮 150+ LeetCode & 100+ CodeForces problems solved — DSA is a daily habit, not a resume line
 - 📍 Based in Marathahalli, Bengaluru
 - 💬 Ask me about: Spring Security/JWT auth flows, deploying a Spring Boot app to Render with a managed MySQL DB, or async email verification with `@Async`
-- 🚀 Open to Java Full Stack Developer roles — let's connect!
+- 🚀 Open to Software Engineering roles — let's connect!
 
 <details>
 <summary>🎯 What I'm focused on right now</summary>
